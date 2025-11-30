@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow, UC Berkeley <a href='https://discovery.berkeley.edu'>Discovery</a> and <a href='https://ce.berkeley.edu'>Civil Engineering</a> at <a href='https://stairlab.berkeley.edu'>STAIR Lab</a>.
+subtitle: Postdoctoral Fellow, UC Berkeley <a href='https://discovery.berkeley.edu'>Discovery</a> and <a href='https://stairlab.berkeley.edu'>STAIRlab</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>César E. Chávez Student Center</p>
+    <p>César Chávez Student Center</p>
     <p>University of California</p>
     <p>Berkeley, CA 94720</p>
 
@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+My work and interests lie in dynamical systems research and student success in higher education. My doctoral research established a framework to monitor the health of civil infrastructure using system identification from vibration data, that is currently deployed as part of a web-based monitoring platform used by the California Department of Transportation. My recent work has expanded on this framework for diagnosis of mechanical misbehavior from tracked motions and resolving ambiguity in the interpretation of quantitative health monitoring metrics.
 
+I am committed to inhabiting a role in academia that is responsive to student needs. In my current position as the Program Specialist for Research Mentorship and Student Impact with Berkeley Discovery, I design, implement, and assesses educational structures, focusing on tiered mentorship models and immersive learning programs. My goal is to improve student self-efficacy and professional readiness by giving students ownership over creation and innovation, while ensuring that the guidance they receive reinforces and upholds their leading role in exploration.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
