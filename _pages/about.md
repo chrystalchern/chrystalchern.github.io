@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>César Chávez Student Center</p>
+    <p>Student Center</p>
     <p>University of California</p>
     <p>Berkeley, CA 94720</p>
 
