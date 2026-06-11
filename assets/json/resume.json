@@ -6,7 +6,7 @@
     "email": "cchern@berkeley.edu",
     "phone": "",
     "url": "https://chrystalchern.com/",
-    "summary": "Dynamics researcher specializing in IMU-based motion sensing, system identification, and digital twins of physical systems, with experience spanning sensor instrumentation and signal-level characterization through production-quality Python analysis tools.",
+    "summary": "Dynamics researcher specializing in IMU-based motion sensing, system identification, and digital twins of physical systems, with experience spanning sensor instrumentation, standards-based experimental testing, and signal-level characterization through production-quality Python analysis tools.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,7 +39,7 @@
         "Lead instrumentation, signal processing, and data analysis for kinematic motion tracking.",
         "Apply inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks; led experiment design, sensor placement, and data collection.",
         "Developed network analysis methodology and Python analysis code to identify the causal body-segment motions driving induced object motion, culminating in a journal submission (Nonlinear Dynamics).",
-        "Evaluate system identification prediction residuals and modal clustering for continuous structural health monitoring under environmental and seismic loads.",
+        "Evaluate system identification prediction residuals and modal clustering for anomaly detection and early-warning structural health monitoring under environmental and seismic loads.",
         "Supervise graduate and undergraduate researchers in data-driven system dynamics."
       ]
     },
@@ -65,6 +65,7 @@
       "highlights": [
         "Developed California's production web platform for automated bridge health monitoring (Caltrans).",
         "Performed system identification and finite element modeling of bridges and buildings.",
+        "Developed machine learning anomaly detection for bridge damage diagnosis within a human-machine collaboration framework (Journal of Bridge Engineering, 2024).",
         "Developed deep learning image classification models for structural health monitoring.",
         "Built feature engineering pipelines for damage classification from augmented structural response time-history data."
       ]
@@ -79,7 +80,7 @@
       "highlights": [
         "Performed parametric energy, daylighting, and thermal finite element analysis (2D/3D) of curtain wall, cladding, and custom skylight assemblies.",
         "Conducted infrared thermography surveys and analysis for non-destructive diagnostics.",
-        "Performed on-site water penetration resistance and air infiltration testing.",
+        "Performed on-site water penetration and air infiltration testing of installed cladding assemblies per ASTM/AAMA standards, including instrumented pressure-chamber test setup, acceptance-criteria evaluation, and leak-path diagnosis.",
         "Analyzed wind loads on components and cladding per structural code."
       ]
     },
@@ -318,13 +319,37 @@
       "name": "Programming (production)",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python (package/module development)", "Bash", "Tcl", "HTML/CSS", "JavaScript"]
+      "keywords": [
+        "Python (package/module development)",
+        "Bash",
+        "Tcl",
+        "HTML/CSS",
+        "JavaScript"
+      ]
     },
     {
       "name": "Additional Languages & Tools",
       "level": "",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": ["MATLAB", "R", "C", "Rust", "Mechanical and thermal finite element analysis (FEA)"]
+      "keywords": [
+        "MATLAB",
+        "R",
+        "C",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Modeling & Analysis",
+      "level": "",
+      "icon": "fa-solid fa-square-root-variable",
+      "keywords": [
+        "Vibrations and structural dynamics",
+        "Differential equation modeling",
+        "Linear algebra",
+        "Numerical methods",
+        "Finite element analysis of material and structural behavior (mechanical and thermal)",
+        "Machine learning anomaly detection"
+      ]
     },
     {
       "name": "Test & Measurement",
@@ -334,8 +359,9 @@
         "Data acquisition (DAQ)",
         "Sensor instrumentation",
         "Signal processing (FFT, filtering, system identification)",
+        "ASTM standards-based testing (tensile, water penetration, air infiltration)",
         "Infrared thermography",
-        "Water penetration and air infiltration field testing"
+        "Field acceptance testing"
       ]
     }
   ],
@@ -405,7 +431,11 @@
     {
       "name": "BRACE2: Bridge Rapid Assessment Center for Extreme Events",
       "summary": "California's production web platform for automated bridge health monitoring, developed for Caltrans with system identification and finite element modeling of high-value structural assets.",
-      "highlights": ["System identification", "Structural health monitoring", "Production web platform"],
+      "highlights": [
+        "System identification",
+        "Structural health monitoring",
+        "Production web platform"
+      ],
       "startDate": "2019-08-01",
       "endDate": "2024-05-01",
       "url": ""
@@ -413,7 +443,11 @@
     {
       "name": "mdof",
       "summary": "Open-source Python package for system identification from vibration data.",
-      "highlights": ["Python", "System identification", "Open source"],
+      "highlights": [
+        "Python",
+        "System identification",
+        "Open source"
+      ],
       "startDate": "2023-01-01",
       "endDate": "",
       "url": "https://doi.org/10.5281/zenodo.11660201"
