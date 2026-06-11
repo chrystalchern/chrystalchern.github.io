@@ -1,200 +1,422 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chrystal Chern",
+    "label": "Postdoctoral Researcher, UC Berkeley",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "cchern@berkeley.edu",
+    "phone": "",
+    "url": "https://chrystalchern.com/",
+    "summary": "Dynamics researcher specializing in IMU-based motion sensing, system identification, and digital twins of physical systems, with experience spanning sensor instrumentation and signal-level characterization through production-quality Python analysis tools.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "chrystalchern",
+        "url": "https://github.com/chrystalchern"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "chrystal-chern",
+        "url": "https://www.linkedin.com/in/chrystal-chern"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Dynamics Lab & STAIRLab, UC Berkeley",
+      "position": "Postdoctoral Researcher",
+      "url": "https://chrystalchern.com/",
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "summary": "Research on sensing, system identification, and modeling of mechanical and structural systems.",
+      "highlights": [
+        "Lead instrumentation, signal processing, and data analysis for kinematic motion tracking.",
+        "Apply inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks; led experiment design, sensor placement, and data collection.",
+        "Developed network analysis methodology and Python analysis code to identify the causal body-segment motions driving induced object motion, culminating in a journal submission (Nonlinear Dynamics).",
+        "Evaluate system identification prediction residuals and modal clustering for continuous structural health monitoring under environmental and seismic loads.",
+        "Supervise graduate and undergraduate researchers in data-driven system dynamics."
+      ]
+    },
+    {
+      "name": "Berkeley Discovery Initiative, UC Berkeley",
+      "position": "Program Strategist, Research Mentorship and Student Impact",
+      "url": "",
+      "startDate": "2024-07-01",
+      "endDate": "",
+      "summary": "Design and assess tiered mentorship and immersive research programs that give students ownership over creation and innovation.",
+      "highlights": [
+        "Co-developed an interdisciplinary research mentorship program spanning 8 research hubs, 30+ graduate fellows, and 170 undergraduates.",
+        "Led survey and focus-group assessment and co-secured $170k in continuing funding."
+      ]
+    },
+    {
+      "name": "STAIRLab & Pacific Earthquake Engineering Research Center (PEER), UC Berkeley",
+      "position": "Graduate Student Researcher",
+      "url": "https://peer.berkeley.edu/",
+      "startDate": "2019-08-01",
+      "endDate": "2024-05-01",
+      "summary": "Bridge Rapid Assessment Center for Extreme Events (BRACE2), Structural ImageNet, and feature engineering for structural health monitoring.",
+      "highlights": [
+        "Developed California's production web platform for automated bridge health monitoring (Caltrans).",
+        "Performed system identification and finite element modeling of bridges and buildings.",
+        "Developed deep learning image classification models for structural health monitoring.",
+        "Built feature engineering pipelines for damage classification from augmented structural response time-history data."
+      ]
+    },
+    {
+      "name": "Simpson Gumpertz & Heger Inc.",
+      "position": "Staff I, Building Technology",
+      "url": "https://www.sgh.com/",
+      "startDate": "2016-07-01",
+      "endDate": "2018-12-01",
+      "summary": "Building enclosure engineering, simulation, and field testing in Washington, DC.",
+      "highlights": [
+        "Performed parametric energy, daylighting, and thermal finite element analysis (2D/3D) of curtain wall, cladding, and custom skylight assemblies.",
+        "Conducted infrared thermography surveys and analysis for non-destructive diagnostics.",
+        "Performed on-site water penetration resistance and air infiltration testing.",
+        "Analyzed wind loads on components and cladding per structural code."
+      ]
+    },
+    {
+      "name": "MIT Digital Structures Lab",
+      "position": "Undergraduate Researcher",
+      "url": "",
+      "startDate": "2015-05-01",
+      "endDate": "2016-05-01",
+      "summary": "Experimental characterization of fine-resolution anisotropic material properties of 3D printed materials via ASTM tensile testing.",
+      "highlights": []
+    },
+    {
+      "name": "Dassault Systemes SOLIDWORKS Corp.",
+      "position": "Engineering Intern",
+      "url": "https://www.solidworks.com/",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01",
+      "summary": "CAD and FEA software testing in Woodland Hills, CA.",
+      "highlights": [
+        "Investigated user-reported software issues across Computer Aided Design (CAD) and Finite Element Analysis (FEA) products for the SOLIDWORKS 2015 Beta program.",
+        "Contributed to the redesign of the engineering technical support knowledge base."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Resilient Cities and Structures; Computers and Structures; Computer-Aided Civil and Infrastructure Engineering",
+      "location": "",
+      "position": "Technical Reviewer",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Peer reviewer for journals in structural engineering and computing.",
+      "highlights": []
+    },
+    {
+      "organization": "UC Berkeley SEMM & CEE Scholars Programs",
+      "location": "Berkeley, CA",
+      "position": "Research Mentor",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Designed and supervised structural health monitoring and sensor projects for 5 undergraduate researchers.",
+      "highlights": []
+    },
+    {
+      "organization": "UC Berkeley SEMM-DSR (Doctoral Students and Researchers Organization)",
+      "location": "Berkeley, CA",
+      "position": "Founder & President",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Founded and led the doctoral students and researchers organization for Structural Engineering, Mechanics, and Materials.",
+      "highlights": []
+    },
+    {
+      "organization": "MIT Engineers Without Borders",
+      "location": "Liwonde, Malawi",
+      "position": "Malawi Project Manager & Fundraising Chair",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-06-01",
+      "summary": "Managed an international development engineering project and chapter fundraising.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://www.berkeley.edu/",
+      "area": "Structural Engineering, Mechanics, and Materials",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-08-01",
+      "endDate": "2024-05-01",
+      "score": "3.89/4.00",
+      "courses": [
+        "Thesis: Digital Twin Framework for Vibration-Based Structural Health Monitoring (Advisor: Khalid M. Mosalam)",
+        "Major focus: structural mechanics and dynamics, linear and nonlinear structural analysis, finite element methods, performance-based engineering and design",
+        "Minor focus: artificial intelligence, machine learning, control systems, and scientific computing"
+      ]
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "url": "https://www.berkeley.edu/",
+      "area": "Structural Engineering, Mechanics, and Materials",
+      "studyType": "MS",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-01",
+      "score": "",
+      "courses": [
+        "Thesis: Deep Learning for Transmission Tower Structural Health Monitoring in Small Datasets"
+      ]
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA",
+      "url": "https://www.mit.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "BS",
+      "startDate": "2012-09-01",
+      "endDate": "2016-06-01",
+      "score": "",
+      "courses": [
+        "Mechanical systems, thermodynamics, and design"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "UC Berkeley Future of Higher Education Postdoctoral Fellowship",
+      "date": "2024-07-01",
+      "awarder": "University of California, Berkeley",
+      "url": "",
+      "summary": "$140k fellowship, 2024-present."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "NSF Graduate Research Fellowship (GRFP)",
+      "date": "2020-04-01",
+      "awarder": "National Science Foundation",
+      "url": "https://www.nsfgrfp.org/",
+      "summary": "$160k fellowship, 2020-2024."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Priscilla King Gray Public Service Center Expedition Grant",
+      "date": "2015-01-01",
+      "awarder": "Massachusetts Institute of Technology",
+      "url": "",
+      "summary": "$10k grant."
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Intel Scholarship",
+      "date": "2012-06-01",
+      "awarder": "Intel",
+      "url": "",
+      "summary": "$4k scholarship."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Modal Clustering for Digital Twinning of Civil Infrastructure",
+      "publisher": "Journal of Engineering Mechanics (in preparation)",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Chrystal Chern and Khalid Mosalam."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Detecting Inelasticity in Seismic Data with Time Response System Identification",
+      "publisher": "Mechanical Systems and Signal Processing (in preparation)",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Naiqi Guo, Chrystal Chern, and Khalid Mosalam."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Resolving Ambiguous Modes in Damped Linear Mechanical Systems",
+      "publisher": "Acta Mechanica (in preparation)",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Chrystal Chern and Oliver M. O'Reilly."
+    },
+    {
+      "name": "The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis",
+      "publisher": "Nonlinear Dynamics (submitted May 2026)",
+      "releaseDate": "2026-05-16",
+      "url": "",
+      "summary": "Chrystal Chern, Theresa E. Honein, and Oliver M. O'Reilly."
+    },
+    {
+      "name": "On Complex Modal Inverse Analysis: The Cautionary Tale of the Single Surviving Mode",
+      "publisher": "ASME Journal of Applied Mechanics, Technical Brief (submitted June 2026)",
+      "releaseDate": "2026-06-01",
+      "url": "",
+      "summary": "Chrystal Chern and Oliver M. O'Reilly."
+    },
+    {
+      "name": "Human-Machine Collaboration Framework for Bridge Health Monitoring",
+      "publisher": "Journal of Bridge Engineering, 29(7), 04024041",
+      "releaseDate": "2024-07-01",
+      "url": "",
+      "summary": "Sifat Muin, Chrystal Chern, and Khalid Mosalam."
+    },
+    {
+      "name": "Structural Response Prediction from Learned System Realization Matrices",
+      "publisher": "11th International Conference on Experimental Vibration Analysis of Civil Engineering Structures (EVACES)",
+      "releaseDate": "2025-07-01",
+      "url": "",
+      "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
+    },
+    {
+      "name": "Cross-Sectional Study of Physics-Informed Bridge Health Identification",
+      "publisher": "IABEE Fourth International Bridge Seismic Workshop (4IBSW)",
+      "releaseDate": "2024-08-01",
+      "url": "",
+      "summary": "Chrystal Chern and Khalid Mosalam."
+    },
+    {
+      "name": "Human-Machine Collaboration Framework for Bridge Health Monitoring",
+      "publisher": "SMIP20 Seminar on Utilization of Strong-Motion Data Proceedings, pp. 100-127",
+      "releaseDate": "2020-10-01",
+      "url": "",
+      "summary": "Sifat Muin, Chrystal Chern, and Khalid Mosalam."
+    },
+    {
+      "name": "mdof: open-source package for system identification",
+      "publisher": "Zenodo (v0.0.16-alpha)",
+      "releaseDate": "2024-06-01",
+      "url": "https://doi.org/10.5281/zenodo.11660201",
+      "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
+    },
+    {
+      "name": "Digital Twin Framework for Vibration-Based Structural Health Monitoring",
+      "publisher": "PhD Dissertation, UC Berkeley",
+      "releaseDate": "2024-05-01",
+      "url": "",
+      "summary": "Chrystal Chern."
+    },
+    {
+      "name": "BRACE2: Bridge Rapid Assessment Center for Extreme Events, Phase I Final Report",
+      "publisher": "Caltrans Technical Report No. CA24-3703",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
+    },
+    {
+      "name": "Deep Learning for Transmission Tower Structural Health Monitoring in Small Datasets",
+      "publisher": "MS Research Report, UC Berkeley",
+      "releaseDate": "2019-05-01",
+      "url": "",
+      "summary": "Chrystal Chern."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming (production)",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python (package/module development)", "Bash", "Tcl", "HTML/CSS", "JavaScript"]
+    },
+    {
+      "name": "Additional Languages & Tools",
+      "level": "",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": ["MATLAB", "R", "C", "Rust", "Mechanical and thermal finite element analysis (FEA)"]
+    },
+    {
+      "name": "Test & Measurement",
+      "level": "",
+      "icon": "fa-solid fa-wave-square",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Data acquisition (DAQ)",
+        "Sensor instrumentation",
+        "Signal processing (FFT, filtering, system identification)",
+        "Infrared thermography",
+        "Water penetration and air infiltration field testing"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin Chinese",
+      "fluency": "",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Dynamics",
+        "System Identification",
+        "IMU-Based Motion Sensing",
+        "Digital Twins",
+        "Structural Health Monitoring",
+        "Scientific Computing"
+      ]
+    },
+    {
+      "name": "Education",
+      "icon": "fa-solid fa-graduation-cap",
+      "keywords": [
+        "Research Mentorship",
+        "Student Self-Efficacy",
+        "Immersive Learning"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Oliver M. O'Reilly",
+      "icon": "fa-solid fa-user",
+      "reference": "Postdoctoral Research Supervisor. Distinguished Professor of Mechanical Engineering, UC Berkeley."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Khalid M. Mosalam",
+      "icon": "fa-solid fa-user",
+      "reference": "PhD Thesis Advisor & Postdoctoral Supervisor. Taisei Professor of Civil Engineering & Director, PEER Center, UC Berkeley."
+    },
+    {
+      "name": "Leslie R. Harlson",
+      "icon": "fa-solid fa-user",
+      "reference": "Postdoctoral Supervisor. Executive Director, Berkeley Discovery, UC Berkeley."
+    },
+    {
+      "name": "Alessandra Lanzara",
+      "icon": "fa-solid fa-user",
+      "reference": "Postdoctoral Supervisor, Berkeley Discovery. Charles Kittel Chair in Physics & Faculty Director, Kavli ENSI, UC Berkeley."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "BRACE2: Bridge Rapid Assessment Center for Extreme Events",
+      "summary": "California's production web platform for automated bridge health monitoring, developed for Caltrans with system identification and finite element modeling of high-value structural assets.",
+      "highlights": ["System identification", "Structural health monitoring", "Production web platform"],
+      "startDate": "2019-08-01",
+      "endDate": "2024-05-01",
+      "url": ""
+    },
+    {
+      "name": "mdof",
+      "summary": "Open-source Python package for system identification from vibration data.",
+      "highlights": ["Python", "System identification", "Open source"],
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "url": "https://doi.org/10.5281/zenodo.11660201"
     }
   ]
 }
