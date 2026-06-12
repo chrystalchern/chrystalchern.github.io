@@ -37,7 +37,7 @@
       "summary": "Research on sensing, system identification, and modeling of mechanical and structural systems.",
       "highlights": [
         "Lead instrumentation, signal processing, and data analysis for kinematic motion tracking.",
-        "Apply inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks; led experiment design, sensor placement, and data collection.",
+        "Apply inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks with strap-down integration and magnetic field mapping; led experiment design, sensor placement, and data collection.",
         "Developed network analysis methodology and Python analysis code to identify the causal body-segment motions driving induced object motion (Nonlinear Dynamics, submitted 2026).",
         "Evaluate system identification prediction residuals and modal clustering for anomaly detection and early-warning structural health monitoring under environmental and seismic loads.",
         "Supervise graduate and undergraduate researchers in data-driven system dynamics."
@@ -358,7 +358,8 @@
       "keywords": [
         "Data acquisition (DAQ)",
         "Sensor instrumentation",
-        "Signal processing (FFT, filtering, system identification)",
+        "Signal processing (FFT, Kalman filtering, strap-down integration, system identification)",
+        "Magnetic field mapping",
         "ASTM standards-based testing (tensile, water penetration, air infiltration)",
         "Infrared thermography",
         "Field acceptance testing"
