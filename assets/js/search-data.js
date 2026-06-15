@@ -440,6 +440,13 @@ ninja.data = [{
           window.open("mailto:%63%63%68%65%72%6E@%62%65%72%6B%65%6C%65%79.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/chrystalchern", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
