@@ -32,7 +32,7 @@
       "name": "Dynamics Lab & STAIRLab (STructural Artificial Intelligence Research Lab), UC Berkeley",
       "position": "Postdoctoral Researcher",
       "url": "https://chrystalchern.com/",
-      "startDate": "2024-07-01",
+      "startDate": "2024-09-01",
       "endDate": "",
       "summary": "Research on sensing, system identification, and modeling of mechanical and structural systems.",
       "highlights": [
@@ -44,10 +44,24 @@
       ]
     },
     {
+      "name": "L&S 110 — The Brilliance of Berkeley, UC Berkeley",
+      "position": "Lecturer (Instructor of Record)",
+      "url": "",
+      "startDate": "2026-01-01",
+      "endDate": "2026-05-01",
+      "summary": "Instructor of record for L&S 110, a course showcasing UC Berkeley faculty keynotes.",
+      "highlights": [
+        "Open and close each class meeting as instructor of record.",
+        "Assign grades, advise students, prepare course materials, and facilitate discussions.",
+        "Coordinate and serve as point of contact for guest speakers.",
+        "Supervise student readers."
+      ]
+    },
+    {
       "name": "Berkeley Discovery Initiative, UC Berkeley",
       "position": "Program Strategist, Research Mentorship and Student Impact",
       "url": "",
-      "startDate": "2024-07-01",
+      "startDate": "2024-09-01",
       "endDate": "",
       "summary": "Design and assess tiered mentorship and immersive research programs that give students ownership over creation and innovation.",
       "highlights": [
@@ -59,8 +73,8 @@
       "name": "STAIRLab & Pacific Earthquake Engineering Research Center (PEER), UC Berkeley",
       "position": "Graduate Student Researcher",
       "url": "https://peer.berkeley.edu/",
-      "startDate": "2019-08-01",
-      "endDate": "2024-05-01",
+      "startDate": "2019-09-01",
+      "endDate": "2024-09-01",
       "summary": "Bridge Rapid Assessment Center for Extreme Events (BRACE2), Structural ImageNet, and feature engineering for structural health monitoring.",
       "highlights": [
         "Developed California's production web platform for automated bridge health monitoring (Caltrans).",
@@ -74,8 +88,8 @@
       "name": "Simpson Gumpertz & Heger Inc.",
       "position": "Staff I, Building Technology",
       "url": "https://www.sgh.com/",
-      "startDate": "2016-07-01",
-      "endDate": "2018-12-01",
+      "startDate": "2016-08-01",
+      "endDate": "2018-08-01",
       "summary": "Building enclosure engineering, simulation, and field testing in Washington, DC.",
       "highlights": [
         "Performed parametric energy, daylighting, and thermal finite element analysis (2D/3D) of curtain wall, cladding, and custom skylight assemblies.",
