@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow, UC Berkeley <a href='https://discovery.berkeley.edu'>Discovery</a> and <a href='https://stairlab.berkeley.edu'>STAIRlab</a>.
+subtitle: Postdoctoral Fellow, UC Berkeley <a href='https://stairlab.berkeley.edu'>STAIRlab</a>, <a href='https://dynamics.berkeley.edu/'>Dynamics Lab</a>, and <a href='https://discovery.berkeley.edu'>Discovery</a>.
 
 profile:
   align: right
