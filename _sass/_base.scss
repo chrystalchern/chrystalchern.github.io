@@ -749,8 +749,6 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
-      .preview {
-      }
 
       .abbr {
         margin-bottom: 0.5rem;
@@ -1501,14 +1499,14 @@ mjx-container[jax="CHTML"][display="true"] {
   render mdof's navbar link in the brand's serif-italic,
   and flag it as external.
 */
-.navbar-nav a.nav-link[href*="mdof.chrystalchern.com"] {
+.navbar-nav a.nav-link.mdof-link {
   font-family: "DM Serif Display", Georgia, serif;
   font-style: italic;
 }
-.navbar-nav a.nav-link[href*="mdof.chrystalchern.com"]::after {
-  content: "\f08e"; // FontAwesome external-link (box + arrow)
+.navbar-nav a.nav-link.mdof-link::after {
+  content: "\f08e"; // FontAwesome external-link
   font-family: "Font Awesome 6 Free";
-  font-weight: 900; // FA6 Free "solid" weight
+  font-weight: 900;
   font-style: normal;
   margin-left: 0.4em;
   font-size: 0.8em;
