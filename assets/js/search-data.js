@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Chrystal Chern&#39;s CV",
           section: "Navigation",
           handler: () => {
