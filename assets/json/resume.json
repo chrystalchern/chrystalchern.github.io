@@ -45,6 +45,21 @@
       ]
     },
     {
+      "name": "STAIRLab & Pacific Earthquake Engineering Research Center (PEER), UC Berkeley",
+      "position": "Graduate Student Researcher",
+      "url": "https://peer.berkeley.edu/",
+      "startDate": "2019-09-01",
+      "endDate": "2024-09-01",
+      "summary": "Bridge Rapid Assessment Center for Extreme Events (BRACE2), Structural ImageNet, and feature engineering for structural health monitoring.",
+      "highlights": [
+        "Developed California's production web platform for automated bridge health monitoring (Caltrans).",
+        "Performed system identification and finite element modeling of bridges and buildings.",
+        "Developed machine learning anomaly detection for bridge damage diagnosis within a human-machine collaboration framework (Journal of Bridge Engineering, 2024).",
+        "Developed deep learning image classification models for structural health monitoring.",
+        "Built feature engineering pipelines for damage classification from augmented structural response time-history data."
+      ]
+    },
+    {
       "name": "L&S 110 — The Brilliance of Berkeley, UC Berkeley",
       "position": "Lecturer (Instructor of Record)",
       "url": "",
@@ -68,21 +83,6 @@
       "highlights": [
         "Co-developed an interdisciplinary research mentorship program spanning 8 research hubs, 30+ graduate fellows, and 170 undergraduates.",
         "Led survey and focus-group assessment and co-secured $170k in continuing funding."
-      ]
-    },
-    {
-      "name": "STAIRLab & Pacific Earthquake Engineering Research Center (PEER), UC Berkeley",
-      "position": "Graduate Student Researcher",
-      "url": "https://peer.berkeley.edu/",
-      "startDate": "2019-09-01",
-      "endDate": "2024-09-01",
-      "summary": "Bridge Rapid Assessment Center for Extreme Events (BRACE2), Structural ImageNet, and feature engineering for structural health monitoring.",
-      "highlights": [
-        "Developed California's production web platform for automated bridge health monitoring (Caltrans).",
-        "Performed system identification and finite element modeling of bridges and buildings.",
-        "Developed machine learning anomaly detection for bridge damage diagnosis within a human-machine collaboration framework (Journal of Bridge Engineering, 2024).",
-        "Developed deep learning image classification models for structural health monitoring.",
-        "Built feature engineering pipelines for damage classification from augmented structural response time-history data."
       ]
     },
     {
