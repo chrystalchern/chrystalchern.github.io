@@ -121,48 +121,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Resilient Cities and Structures; Computers and Structures; Computer-Aided Civil and Infrastructure Engineering",
-      "location": "",
-      "position": "Technical Reviewer",
-      "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "",
-      "summary": "Peer reviewer for journals in structural engineering and computing.",
-      "highlights": []
-    },
-    {
-      "organization": "UC Berkeley SEMM & CEE Scholars Programs",
-      "location": "Berkeley, CA",
-      "position": "Research Mentor",
-      "url": "",
-      "startDate": "2024-01-01",
-      "endDate": "",
-      "summary": "Designed and supervised structural health monitoring and sensor projects for 5 undergraduate researchers.",
-      "highlights": []
-    },
-    {
-      "organization": "UC Berkeley SEMM-DSR (Doctoral Students and Researchers Organization)",
-      "location": "Berkeley, CA",
-      "position": "Founder & President",
-      "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2024-05-01",
-      "summary": "Founded and led the doctoral students and researchers organization for Structural Engineering, Mechanics, and Materials.",
-      "highlights": []
-    },
-    {
-      "organization": "MIT Engineers Without Borders",
-      "location": "Liwonde, Malawi",
-      "position": "Malawi Project Manager & Fundraising Chair",
-      "url": "",
-      "startDate": "2014-09-01",
-      "endDate": "2015-06-01",
-      "summary": "Managed an international development engineering project and chapter fundraising.",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "University of California, Berkeley",
@@ -170,8 +128,8 @@
       "url": "https://www.berkeley.edu/",
       "area": "Structural Engineering, Mechanics, and Materials",
       "studyType": "PhD",
-      "startDate": "2019-08-01",
-      "endDate": "2024-05-01",
+      "startDate": "2019-12-01",
+      "endDate": "2024-08-01",
       "score": "3.89/4.00",
       "courses": [
         "Thesis: Digital Twin Framework for Vibration-Based Structural Health Monitoring (Advisor: Khalid M. Mosalam)",
@@ -186,7 +144,7 @@
       "area": "Structural Engineering, Mechanics, and Materials",
       "studyType": "MS",
       "startDate": "2018-08-01",
-      "endDate": "2019-05-01",
+      "endDate": "2019-12-01",
       "score": "",
       "courses": [
         "Thesis: Deep Learning for Transmission Tower Structural Health Monitoring in Small Datasets"
@@ -203,6 +161,100 @@
       "score": "",
       "courses": [
         "Mechanical systems, thermodynamics, and design"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming (production)",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python (package/module development)",
+        "Bash",
+        "Tcl",
+        "HTML/CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Additional Languages & Tools",
+      "level": "",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": [
+        "MATLAB",
+        "R",
+        "C",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Modeling & Analysis",
+      "level": "",
+      "icon": "fa-solid fa-square-root-variable",
+      "keywords": [
+        "Vibrations and structural dynamics",
+        "Differential equation modeling",
+        "Linear algebra",
+        "Numerical methods",
+        "Finite element analysis of material and structural behavior (mechanical and thermal)",
+        "Machine learning anomaly detection"
+      ]
+    },
+    {
+      "name": "Test & Measurement",
+      "level": "",
+      "icon": "fa-solid fa-wave-square",
+      "keywords": [
+        "Data acquisition (DAQ)",
+        "Sensor instrumentation",
+        "Signal processing (FFT, Kalman filtering, strap-down integration, system identification)",
+        "Magnetic field mapping",
+        "ASTM standards-based testing (tensile, water penetration, air infiltration)",
+        "Infrared thermography",
+        "Field acceptance testing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Dynamics",
+        "System Identification",
+        "Finite Element Analysis",
+        "Digital Twins",
+        "Structural Health Monitoring",
+        "Motion Sensing",
+        "Signal Processing",
+        "Scientific Computing"
+      ]
+    },
+    {
+      "name": "Education",
+      "icon": "fa-solid fa-graduation-cap",
+      "keywords": [
+        "Research Mentorship",
+        "Student Self-Efficacy",
+        "Immersive Learning"
       ]
     }
   ],
@@ -329,96 +381,46 @@
       "summary": "Chrystal Chern."
     }
   ],
-  "skills": [
+  "volunteer": [
     {
-      "name": "Programming (production)",
-      "level": "",
-      "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (package/module development)",
-        "Bash",
-        "Tcl",
-        "HTML/CSS",
-        "JavaScript"
-      ]
+      "organization": "Resilient Cities and Structures; Computers and Structures; Computer-Aided Civil and Infrastructure Engineering",
+      "location": "",
+      "position": "Technical Reviewer",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "summary": "Peer reviewer for journals in structural engineering and computing.",
+      "highlights": []
     },
     {
-      "name": "Additional Languages & Tools",
-      "level": "",
-      "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "MATLAB",
-        "R",
-        "C",
-        "Rust"
-      ]
+      "organization": "UC Berkeley SEMM & CEE Scholars Programs",
+      "location": "Berkeley, CA",
+      "position": "Research Mentor",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "Designed and supervised structural health monitoring and sensor projects for 5 undergraduate researchers.",
+      "highlights": []
     },
     {
-      "name": "Modeling & Analysis",
-      "level": "",
-      "icon": "fa-solid fa-square-root-variable",
-      "keywords": [
-        "Vibrations and structural dynamics",
-        "Differential equation modeling",
-        "Linear algebra",
-        "Numerical methods",
-        "Finite element analysis of material and structural behavior (mechanical and thermal)",
-        "Machine learning anomaly detection"
-      ]
+      "organization": "UC Berkeley SEMM-DSR (Doctoral Students and Researchers Organization)",
+      "location": "Berkeley, CA",
+      "position": "Founder & President",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2024-05-01",
+      "summary": "Founded and led the doctoral students and researchers organization for Structural Engineering, Mechanics, and Materials.",
+      "highlights": []
     },
     {
-      "name": "Test & Measurement",
-      "level": "",
-      "icon": "fa-solid fa-wave-square",
-      "keywords": [
-        "Data acquisition (DAQ)",
-        "Sensor instrumentation",
-        "Signal processing (FFT, Kalman filtering, strap-down integration, system identification)",
-        "Magnetic field mapping",
-        "ASTM standards-based testing (tensile, water penetration, air infiltration)",
-        "Infrared thermography",
-        "Field acceptance testing"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Mandarin Chinese",
-      "fluency": "",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Research",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Dynamics",
-        "System Identification",
-        "IMU-Based Motion Sensing",
-        "Digital Twins",
-        "Structural Health Monitoring",
-        "Scientific Computing"
-      ]
-    },
-    {
-      "name": "Education",
-      "icon": "fa-solid fa-graduation-cap",
-      "keywords": [
-        "Research Mentorship",
-        "Student Self-Efficacy",
-        "Immersive Learning"
-      ]
+      "organization": "MIT Engineers Without Borders",
+      "location": "Liwonde, Malawi",
+      "position": "Malawi Project Manager & Fundraising Chair",
+      "url": "",
+      "startDate": "2014-09-01",
+      "endDate": "2015-06-01",
+      "summary": "Managed an international development engineering project and chapter fundraising.",
+      "highlights": []
     }
   ],
   "references": [
