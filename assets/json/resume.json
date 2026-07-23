@@ -290,6 +290,20 @@
   ],
   "publications": [
     {
+      "name": "On Complex Modal Inverse Analysis: The Cautionary Tale of the Single Surviving Mode",
+      "publisher": "ASME Journal of Applied Mechanics (in press, 2026)",
+      "releaseDate": "2026-07-05",
+      "url": "https://doi.org/10.1115/1.4072378",
+      "summary": "Chrystal Chern and Oliver M. O'Reilly."
+    },
+    {
+      "name": "The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis",
+      "publisher": "Nonlinear Dynamics (submitted May 2026)",
+      "releaseDate": "2026-05-16",
+      "url": "",
+      "summary": "Chrystal Chern, Theresa E. Honein, and Oliver M. O'Reilly."
+    },
+    {
       "name": "Modal Clustering for Digital Twinning of Civil Infrastructure",
       "publisher": "Journal of Engineering Mechanics (in preparation)",
       "releaseDate": "",
@@ -304,38 +318,17 @@
       "summary": "Naiqi Guo, Chrystal Chern, and Khalid Mosalam."
     },
     {
-      "name": "Resolving Ambiguous Modes in Damped Linear Mechanical Systems",
-      "publisher": "Acta Mechanica (in preparation)",
-      "releaseDate": "",
-      "url": "",
-      "summary": "Chrystal Chern and Oliver M. O'Reilly."
-    },
-    {
-      "name": "The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis",
-      "publisher": "Nonlinear Dynamics (submitted May 2026)",
-      "releaseDate": "2026-05-16",
-      "url": "",
-      "summary": "Chrystal Chern, Theresa E. Honein, and Oliver M. O'Reilly."
-    },
-    {
-      "name": "On Complex Modal Inverse Analysis: The Cautionary Tale of the Single Surviving Mode",
-      "publisher": "ASME Journal of Applied Mechanics, Technical Brief (submitted June 2026)",
-      "releaseDate": "2026-06-01",
-      "url": "",
-      "summary": "Chrystal Chern and Oliver M. O'Reilly."
-    },
-    {
       "name": "Human-Machine Collaboration Framework for Bridge Health Monitoring",
       "publisher": "Journal of Bridge Engineering, 29(7), 04024041",
       "releaseDate": "2024-07-01",
-      "url": "",
+      "url": "https://doi.org/10.1061/JBENF2.BEENG-6587",
       "summary": "Sifat Muin, Chrystal Chern, and Khalid Mosalam."
     },
     {
       "name": "Structural Response Prediction from Learned System Realization Matrices",
       "publisher": "11th International Conference on Experimental Vibration Analysis of Civil Engineering Structures (EVACES)",
       "releaseDate": "2025-07-01",
-      "url": "",
+      "url": "https://doi.org/10.1007/978-3-031-96110-6_72",
       "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
     },
     {
