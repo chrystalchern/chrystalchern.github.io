@@ -146,9 +146,7 @@
       "startDate": "2018-08-01",
       "endDate": "2019-12-01",
       "score": "",
-      "courses": [
-        "Thesis: Deep Learning for Transmission Tower Structural Health Monitoring in Small Datasets"
-      ]
+      "courses": ["Thesis: Deep Learning for Transmission Tower Structural Health Monitoring in Small Datasets"]
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -159,9 +157,7 @@
       "startDate": "2012-09-01",
       "endDate": "2016-06-01",
       "score": "",
-      "courses": [
-        "Mechanical systems, thermodynamics, and design"
-      ]
+      "courses": ["Mechanical systems, thermodynamics, and design"]
     }
   ],
   "skills": [
@@ -169,24 +165,13 @@
       "name": "Programming (production)",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (package/module development)",
-        "Bash",
-        "Tcl",
-        "HTML/CSS",
-        "JavaScript"
-      ]
+      "keywords": ["Python (package/module development)", "Bash", "Tcl", "HTML/CSS", "JavaScript"]
     },
     {
       "name": "Additional Languages & Tools",
       "level": "",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "MATLAB",
-        "R",
-        "C",
-        "Rust"
-      ]
+      "keywords": ["MATLAB", "R", "C", "Rust"]
     },
     {
       "name": "Modeling & Analysis",
@@ -251,11 +236,7 @@
     {
       "name": "Education",
       "icon": "fa-solid fa-graduation-cap",
-      "keywords": [
-        "Research Mentorship",
-        "Student Self-Efficacy",
-        "Immersive Learning"
-      ]
+      "keywords": ["Research Mentorship", "Student Self-Efficacy", "Immersive Learning"]
     }
   ],
   "awards": [
@@ -442,11 +423,7 @@
     {
       "name": "BRACE2: Bridge Rapid Assessment Center for Extreme Events",
       "summary": "California's production web platform for automated bridge health monitoring, developed for Caltrans with system identification and finite element modeling of high-value structural assets.",
-      "highlights": [
-        "System identification",
-        "Structural health monitoring",
-        "Production web platform"
-      ],
+      "highlights": ["System identification", "Structural health monitoring", "Production web platform"],
       "startDate": "2019-08-01",
       "endDate": "2024-05-01",
       "url": ""
@@ -454,11 +431,7 @@
     {
       "name": "mdof",
       "summary": "Open-source Python package for system identification from vibration data.",
-      "highlights": [
-        "Python",
-        "System identification",
-        "Open source"
-      ],
+      "highlights": ["Python", "System identification", "Open source"],
       "startDate": "2023-01-01",
       "endDate": "",
       "url": "https://doi.org/10.5281/zenodo.11660201"

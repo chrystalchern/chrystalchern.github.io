@@ -107,7 +107,10 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link{% if p.permalink contains 'mdof.chrystalchern.com' %} mdof-link{% endif %}" href="{% if p.permalink contains '://' %}{{ url }}{% else %}{{ url | relative_url }}{% endif %}">
+                  <a
+                    class="nav-link{% if p.permalink contains 'mdof.chrystalchern.com' %} mdof-link{% endif %}"
+                    href="{% if p.permalink contains '://' %}{{ url }}{% else %}{{ url | relative_url }}{% endif %}"
+                  >
                     {{- p.title }}
                     {% if page.url contains p.url %}
                       <span class="sr-only">(current)</span>

@@ -7,7 +7,7 @@ first_name: Chrystal
 middle_name:
 last_name: Chern
 contact_note: > # A little note about which of these is the best way to reach you.
-  
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Chrystal Chern's personal website
 footer_text: >
