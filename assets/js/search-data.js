@@ -60,7 +60,7 @@ ninja.data = [{
         },
       },{
         id: 'social-custom_social',
-        title: 'Custom_social',
+        title: 'mdof',
         section: 'Socials',
         handler: () => {
           window.open("https://mdof.chrystalchern.com/", "_blank");
