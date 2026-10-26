@@ -51,7 +51,7 @@
       "highlights": [
         "Lead instrumentation, signal processing, and data analysis for kinematic motion tracking.",
         "Apply inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks with strap-down integration and magnetic field mapping; led experiment design, sensor placement, and data collection.",
-        "Developed network analysis methodology and Python analysis code to identify the causal body-segment motions driving induced object motion (Nonlinear Dynamics, submitted 2026).",
+        "Developed network analysis methodology and Python analysis code to identify the causal body-segment motions driving induced object motion (Nonlinear Dynamics, 2026).",
         "Build finite element models to generate analytical benchmarks, validating system-identification methods across experimental, field, and FEA-simulated structural response data.",
         "Evaluate system identification prediction residuals and modal clustering for anomaly detection and early-warning structural health monitoring under environmental and seismic loads.",
         "Supervise graduate and undergraduate researchers in data-driven system dynamics."
@@ -285,16 +285,16 @@
   "publications": [
     {
       "name": "On Complex Modal Inverse Analysis: The Cautionary Tale of the Single Surviving Mode",
-      "publisher": "ASME Journal of Applied Mechanics",
-      "releaseDate": "2026-07-05",
+      "publisher": "Journal of Applied Mechanics, 93(10), 101008",
+      "releaseDate": "2026-09-08",
       "url": "https://doi.org/10.1115/1.4072378",
       "summary": "Chrystal Chern and Oliver M. O'Reilly."
     },
     {
       "name": "The Symphony of Gyrations Producing Steady Motions of a Hula Hoop: Insights from a Network Analysis",
-      "publisher": "Nonlinear Dynamics (submitted May 2026)",
-      "releaseDate": "2026-05-16",
-      "url": "",
+      "publisher": "Nonlinear Dynamics, 114(18), 1192",
+      "releaseDate": "2026-09-28",
+      "url": "https://doi.org/10.1007/s11071-026-13058-7",
       "summary": "Chrystal Chern, Theresa E. Honein, and Oliver M. O'Reilly."
     },
     {
