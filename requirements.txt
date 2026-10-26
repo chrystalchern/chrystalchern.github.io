@@ -1,3 +1,4 @@
+bibtexparser<2 # scholarly 1.7.x imports bibtexparser.bibdatabase, removed in 2.0
 nbconvert
 pyyaml
 scholarly
