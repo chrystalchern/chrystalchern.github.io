@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Chrystal Chern",
-    "label": "Postdoctoral Researcher, UC Berkeley",
+    "label": "Research Engineer, R&D at Gridware",
     "image": "",
     "email": "cchern@berkeley.edu",
     "phone": "",
     "url": "https://chrystalchern.com/",
-    "summary": "Dynamics researcher specializing in IMU-based motion sensing, system identification, and digital twins of physical systems, with experience spanning sensor instrumentation, standards-based experimental testing, and signal-level characterization through production-quality Python analysis tools.",
+    "summary": "Dynamics researcher specializing in motion sensing, system identification, and condition monitoring of physical systems, with experience spanning sensor instrumentation, standards-based experimental testing, and signal-level characterization through production-quality Python analysis tools.",
     "location": {
       "address": "",
       "postalCode": "",
