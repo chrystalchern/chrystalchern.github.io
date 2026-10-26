@@ -29,11 +29,24 @@
   },
   "work": [
     {
+      "name": "Gridware",
+      "position": "Research Engineer, Mechanical R&D",
+      "url": "https://gridware.io/",
+      "location": "San Francisco, CA",
+      "startDate": "2026-10-13",
+      "summary": "Scoring utility poles for structural health.",
+      "highlights": [
+        "Analyze multimodal sensor measurements across fleet, especially motion.",
+        "Design and run experiments to validate measurement interpretation.",
+        "Build tools and workflows to connect measurements to actionable insights."
+      ]
+    },
+    {
       "name": "Dynamics Lab & STAIRLab (STructural Artificial Intelligence Research Lab), UC Berkeley",
       "position": "Postdoctoral Researcher",
       "url": "https://chrystalchern.com/",
       "startDate": "2024-09-01",
-      "endDate": "",
+      "endDate": "2026-09-01",
       "summary": "Research on sensing, system identification, and modeling of mechanical and structural systems.",
       "highlights": [
         "Lead instrumentation, signal processing, and data analysis for kinematic motion tracking.",
@@ -78,7 +91,7 @@
       "position": "Program Strategist, Research Mentorship and Student Impact",
       "url": "",
       "startDate": "2024-09-01",
-      "endDate": "",
+      "endDate": "2026-09-01",
       "summary": "Design and assess tiered mentorship and immersive research programs that give students ownership over creation and innovation.",
       "highlights": [
         "Co-developed an interdisciplinary research mentorship program spanning 8 research hubs, 30+ graduate fellows, and 170 undergraduates.",
