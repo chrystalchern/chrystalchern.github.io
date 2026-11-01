@@ -13,3 +13,14 @@
 "perez":
   - firstname: ["C.", "C. M.", "Claudio", "Claudio M."]
     url: https://claudioperez.com
+
+"mosalam":
+  - firstname: ["K.", "K. M.", "Khalid", "Khalid M."]
+    url: https://stairlab.berkeley.edu
+"honein":
+  - firstname: ["T.", "Theresa", "Theresa E."]
+    url: https://thh00.github.io/
+"o?reilly":
+  - firstname: ["O.", "O. M.", "Oliver M."]
+    url: https://dynamics.berkeley.edu
+
