@@ -1,8 +1,9 @@
-github_users:
-  - chrystalchern
-  - stairlab
+# github_users:
+#   - chrystalchern
+#   - stairlab
 
 repo_description_lines_max: 2
 
 github_repos:
   - chrystalchern/mdof
+  - peer-open-source/xara

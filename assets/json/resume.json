@@ -49,12 +49,12 @@
       "endDate": "2026-09-01",
       "summary": "Research on sensing, system identification, and modeling of mechanical and structural systems.",
       "highlights": [
-        "Lead instrumentation, signal processing, and data analysis for kinematic motion tracking.",
-        "Apply inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks with strap-down integration and magnetic field mapping; led experiment design, sensor placement, and data collection.",
+        "Led instrumentation, signal processing, and data analysis for kinematic motion tracking.",
+        "Applied inverse dynamic analysis to coupled human-object biomechanical systems using multi-node IMU sensor networks with strap-down integration and magnetic field mapping; led experiment design, sensor placement, and data collection.",
         "Developed network analysis methodology and Python analysis code to identify the causal body-segment motions driving induced object motion (Nonlinear Dynamics, 2026).",
-        "Build finite element models to generate analytical benchmarks, validating system-identification methods across experimental, field, and FEA-simulated structural response data.",
-        "Evaluate system identification prediction residuals and modal clustering for anomaly detection and early-warning structural health monitoring under environmental and seismic loads.",
-        "Supervise graduate and undergraduate researchers in data-driven system dynamics."
+        "Built finite element models to generate analytical benchmarks, validating system identification methods across experimental, field, and FEA-simulated structural response data.",
+        "Evaluated system identification prediction residuals and modal clustering for anomaly detection and early-warning structural health monitoring under environmental and seismic loads.",
+        "Supervised graduate and undergraduate researchers in data-driven system dynamics."
       ]
     },
     {
@@ -73,26 +73,26 @@
       ]
     },
     {
-      "name": "L&S 110 — The Brilliance of Berkeley, UC Berkeley",
+      "name": "L&S 110: The Brilliance of Berkeley, UC Berkeley",
       "position": "Lecturer (Instructor of Record)",
       "url": "",
       "startDate": "2026-01-01",
       "endDate": "2026-05-01",
       "summary": "Instructor of record for L&S 110, a course showcasing UC Berkeley faculty keynotes.",
       "highlights": [
-        "Open and close each class meeting as instructor of record.",
-        "Assign grades, advise students, prepare course materials, and facilitate discussions.",
-        "Coordinate and serve as point of contact for guest speakers.",
-        "Supervise student readers."
+        "Opened and closed each class meeting as instructor of record.",
+        "Assigned grades, advised students, prepared course materials, and facilitated discussions.",
+        "Coordinated and served as point of contact for guest speakers.",
+        "Supervised student readers."
       ]
     },
     {
-      "name": "Berkeley Discovery Initiative, UC Berkeley",
+      "name": "Berkeley Discovery, UC Berkeley",
       "position": "Program Strategist, Research Mentorship and Student Impact",
       "url": "",
       "startDate": "2024-09-01",
       "endDate": "2026-09-01",
-      "summary": "Design and assess tiered mentorship and immersive research programs that give students ownership over creation and innovation.",
+      "summary": "Designed and assessed tiered mentorship and immersive research programs that give students ownership over creation and innovation.",
       "highlights": [
         "Co-developed an interdisciplinary research mentorship program spanning 8 research hubs, 30+ graduate fellows, and 170 undergraduates.",
         "Led survey and focus-group assessment and co-secured $170k in continuing funding."
@@ -122,7 +122,7 @@
       "highlights": []
     },
     {
-      "name": "Dassault Systemes SOLIDWORKS Corp.",
+      "name": "Dassault Systèmes SOLIDWORKS Corp.",
       "position": "Engineering Intern",
       "url": "https://www.solidworks.com/",
       "startDate": "2014-06-01",
@@ -255,28 +255,28 @@
   "awards": [
     {
       "title": "UC Berkeley Future of Higher Education Postdoctoral Fellowship",
-      "date": "2024-07-01",
+      "date": "2024-07",
       "awarder": "University of California, Berkeley",
       "url": "",
       "summary": "$140k fellowship, 2024-2026."
     },
     {
       "title": "NSF Graduate Research Fellowship (GRFP)",
-      "date": "2020-04-01",
+      "date": "2020-04",
       "awarder": "National Science Foundation",
       "url": "https://www.nsfgrfp.org/",
       "summary": "$160k fellowship, 2020-2024."
     },
     {
       "title": "Priscilla King Gray Public Service Center Expedition Grant",
-      "date": "2015-01-01",
+      "date": "2015-01",
       "awarder": "Massachusetts Institute of Technology",
       "url": "",
       "summary": "$10k grant."
     },
     {
       "title": "Intel Scholarship",
-      "date": "2012-06-01",
+      "date": "2012-06",
       "awarder": "Intel",
       "url": "",
       "summary": "$4k scholarship."
@@ -302,49 +302,49 @@
       "publisher": "Journal of Engineering Mechanics (in preparation)",
       "releaseDate": "",
       "url": "",
-      "summary": "Chrystal Chern and Khalid Mosalam."
+      "summary": "Chrystal Chern and Khalid M. Mosalam."
     },
     {
       "name": "Detecting Inelasticity in Seismic Data with Time Response System Identification",
       "publisher": "Mechanical Systems and Signal Processing (in preparation)",
       "releaseDate": "",
       "url": "",
-      "summary": "Naiqi Guo, Chrystal Chern, and Khalid Mosalam."
+      "summary": "Naiqi Guo, Chrystal Chern, and Khalid M. Mosalam."
     },
     {
       "name": "Human-Machine Collaboration Framework for Bridge Health Monitoring",
       "publisher": "Journal of Bridge Engineering, 29(7), 04024041",
       "releaseDate": "2024-07-01",
       "url": "https://doi.org/10.1061/JBENF2.BEENG-6587",
-      "summary": "Sifat Muin, Chrystal Chern, and Khalid Mosalam."
+      "summary": "Sifat Muin, Chrystal Chern, and Khalid M. Mosalam."
     },
     {
       "name": "Structural Response Prediction from Learned System Realization Matrices",
       "publisher": "11th International Conference on Experimental Vibration Analysis of Civil Engineering Structures (EVACES)",
       "releaseDate": "2025-07-01",
       "url": "https://doi.org/10.1007/978-3-031-96110-6_72",
-      "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
+      "summary": "Chrystal Chern, Claudio Perez, and Khalid M. Mosalam."
     },
     {
       "name": "Cross-Sectional Study of Physics-Informed Bridge Health Identification",
       "publisher": "IABEE Fourth International Bridge Seismic Workshop (4IBSW)",
       "releaseDate": "2024-08-01",
       "url": "",
-      "summary": "Chrystal Chern and Khalid Mosalam."
+      "summary": "Chrystal Chern and Khalid M. Mosalam."
     },
     {
       "name": "Human-Machine Collaboration Framework for Bridge Health Monitoring",
       "publisher": "SMIP20 Seminar on Utilization of Strong-Motion Data Proceedings, pp. 100-127",
       "releaseDate": "2020-10-01",
       "url": "",
-      "summary": "Sifat Muin, Chrystal Chern, and Khalid Mosalam."
+      "summary": "Sifat Muin, Chrystal Chern, and Khalid M. Mosalam."
     },
     {
       "name": "mdof: open-source package for system identification",
       "publisher": "Zenodo (v0.0.16-alpha)",
       "releaseDate": "2024-06-01",
       "url": "https://doi.org/10.5281/zenodo.11660201",
-      "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
+      "summary": "Chrystal Chern, Claudio Perez, and Khalid M. Mosalam."
     },
     {
       "name": "Digital Twin Framework for Vibration-Based Structural Health Monitoring",
@@ -358,7 +358,7 @@
       "publisher": "Caltrans Technical Report No. CA24-3703",
       "releaseDate": "2024-01-01",
       "url": "",
-      "summary": "Chrystal Chern, Claudio Perez, and Khalid Mosalam."
+      "summary": "Chrystal Chern, Claudio Perez, and Khalid M. Mosalam."
     },
     {
       "name": "Deep Learning for Transmission Tower Structural Health Monitoring in Small Datasets",
