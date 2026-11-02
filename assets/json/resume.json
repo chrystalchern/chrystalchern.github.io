@@ -343,7 +343,7 @@
       "name": "mdof: open-source package for system identification",
       "publisher": "Zenodo (v0.0.16-alpha)",
       "releaseDate": "2024-06-01",
-      "url": "https://doi.org/10.5281/zenodo.11660201",
+      "url": "https://doi.org/10.5281/zenodo.11660200",
       "summary": "Chrystal Chern, Claudio Perez, and Khalid M. Mosalam."
     },
     {
@@ -447,7 +447,7 @@
       "highlights": ["Python", "System identification", "Open source"],
       "startDate": "2023-01-01",
       "endDate": "",
-      "url": "https://doi.org/10.5281/zenodo.11660201"
+      "url": "https://doi.org/10.5281/zenodo.11660200"
     }
   ]
 }
